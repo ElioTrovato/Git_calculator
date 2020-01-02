@@ -1,0 +1,44 @@
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\bin\Debug\WpfClaculator_2.exe.config
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\MainWindow.baml
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\MainWindow.g.cs
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\App.g.cs
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2_MarkupCompile.cache
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.g.resources
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.Properties.Resources.resources
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.csproj.GenerateResource.Cache
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\bin\Debug\WpfClaculator_2.exe
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\bin\Debug\WpfClaculator_2.pdb
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.exe
+c:\users\elio\documents\visual studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.pdb
+C:\Users\Elio\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\App.baml
+C:\Users\Elio\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.csprojResolveAssemblyReference.cache
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\bin\Debug\WpfClaculator_2.exe.config
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\bin\Debug\WpfClaculator_2.exe
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\bin\Debug\WpfClaculator_2.pdb
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.csprojResolveAssemblyReference.cache
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\MainWindow.baml
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\App.baml
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\MainWindow.g.cs
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\App.g.cs
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2_MarkupCompile.cache
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.g.resources
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.Properties.Resources.resources
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.csproj.GenerateResource.Cache
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.csproj.CoreCompileInputs.cache
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.exe
+C:\Users\eliot\Desktop\Documents\Visual Studio 2012\Projects\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.pdb
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\bin\Debug\WpfClaculator_2.exe.config
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\bin\Debug\WpfClaculator_2.exe
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\bin\Debug\WpfClaculator_2.pdb
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.csprojResolveAssemblyReference.cache
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\MainWindow.baml
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\App.baml
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\MainWindow.g.cs
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\App.g.cs
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2_MarkupCompile.cache
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.g.resources
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.Properties.Resources.resources
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.csproj.GenerateResource.Cache
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.csproj.CoreCompileInputs.cache
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.exe
+C:\Users\eliot\Desktop\WpfClaculator_2\WpfClaculator_2\obj\Debug\WpfClaculator_2.pdb
